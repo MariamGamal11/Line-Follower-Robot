@@ -1,6 +1,6 @@
 # 🚗 Line Follower Robot
 
-A Line Follower Robot is an autonomous robot that follows a path drawn with a black line on a white surface (or vice versa). This project uses infrared (IR) sensors to detect the line and control the robot's movement accordingly.
+As part of university's CSCI205 course, my team and I developed a Line Follower Robot which is an autonomous robot that follows a path drawn with a black line on a white surface (or vice versa). This project uses infrared (IR) sensors to detect the line and control the robot's movement accordingly.
 
 **🛠️ Components Used**
 
